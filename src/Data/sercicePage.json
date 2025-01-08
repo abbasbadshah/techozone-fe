@@ -1,0 +1,74 @@
+[
+  {
+    "icon": "/assets/img/icons/service-page-icon1.png",
+    "title": "Web Development",
+    "desc": "Create dynamic, user-friendly, and responsive websites tailored to your business needs. From corporate websites to personal portfolios, our development solutions ensure optimal performance and seamless user experiences.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon2.png",
+    "title": "Software Development",
+    "desc": "Turn your ideas into robust software solutions with our expertise in custom software development. We design, develop, and deploy scalable applications to streamline your operations and drive innovation.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon3.png",
+    "title": "E-commerce Development",
+    "desc": "Empower your online business with feature-rich e-commerce platforms. We build secure, scalable, and conversion-driven online stores, ensuring a seamless shopping experience for your customers.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon4.png",
+    "title": "Digital Marketing",
+    "desc": "Grow your online presence with data-driven digital marketing strategies. From SEO to social media marketing, we help you connect with your target audience and achieve measurable results.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon5.png",
+    "title": "Branding",
+    "desc": "Define your identity with powerful branding solutions. From logo design to brand guidelines, we help create a lasting impression that resonates with your audienc",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon6.png",
+    "title": "UI/UX Design",
+    "desc": "Deliver intuitive and visually stunning digital experiences with our UI/UX design services. We craft designs that enhance user engagement and satisfaction",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon7.png",
+    "title": "Mobile App Development",
+    "desc": "Reach your customers on the go with custom mobile applications. Our team develops Android and iOS apps tailored to meet your unique business goals",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon8.png",
+    "title": "Cloud Solutions",
+    "desc": "Streamline your operations with cloud-based solutions. We offer migration, integration, and maintenance services to ensure secure and scalable cloud infrastructure.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon9.png",
+    "title": "IT Consulting",
+    "desc": "Navigate the complexities of technology with our expert IT consulting services. We provide strategic guidance to help you adopt the right solutions for your business",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon9.png",
+    "title": "Cybersecurity Services",
+    "desc": "Protect your business from digital threats with our comprehensive cybersecurity services. From risk assessments to threat mitigation, we ensure your data stays safe.",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon9.png",
+    "title": "Maintenance & Support",
+    "desc": "Keep your digital assets running smoothly with our maintenance and support services. We provide regular updates, troubleshooting, and technical assistance to minimize downtime",   
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "/assets/img/icons/service-page-icon9.png",
+    "title": "Custom Solutions",
+    "desc": "Have a unique requirement? We specialize in creating tailor-made solutions to address your specific business challenges, ensuring innovation and efficiency.",   
+    "btnLink": "/service/service-details"
+  }       
+]

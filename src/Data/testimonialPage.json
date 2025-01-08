@@ -1,0 +1,47 @@
+[
+  {
+    "title": "John Anderson",
+    "desc": "Ozone Software and Solutions transformed our outdated website into a modern, user-friendly platform. Their professionalism and expertise were evident in every step of the process. Highly recommended!",   
+    "rating": "(4.3)"
+  },
+  {
+    "title": "Emily Carter",
+    "desc": "The team at Ozone delivered exactly what we needed: a visually stunning and functional e-commerce store. Their attention to detail and customer-first approach set them apart.",   
+    "rating": "(4.0)"
+  },
+  {
+    "title": "Rajesh Mehta",
+    "desc": "We entrusted Ozone Software and Solutions with our software development project, and they exceeded our expectations. The result was a seamless, efficient solution that has boosted our operations.",   
+    "rating": "(5.0)"
+  },
+  {
+    "title": "Sophia Martinez",
+    "desc": "Their digital marketing strategies have significantly increased our online presence. Ozone's team is proactive, knowledgeable, and results-driven. It's been a game-changer for our brand",   
+    "rating": "(3.5)"
+  },
+  {
+    "title": "Liam Walker",
+    "desc": "Ozone Software and Solutions are true partners in innovation. Their ability to understand complex requirements and deliver effective solutions is unmatched. We look forward to more collaborations.",   
+    "rating": "(4.0)"
+  },
+  {
+    "title": "Fatima Al-Darwish",
+    "desc": "The branding services provided by Ozone were phenomenal. They gave our business a fresh identity that resonates with our customers. Working with them was a delightful experience!",   
+    "rating": "(4.1)"
+  },
+  {
+    "title": "Michael Harris",
+    "desc": "Ozone Software and Solutions delivered an exceptional mobile app for our business. Their technical expertise and timely communication ensured a smooth and successful project. Truly outstanding!",   
+    "rating": "(4.0)"
+  },
+  {
+    "title": "Aisha Khan",
+    "desc": "The cloud solutions provided by Ozone have streamlined our operations significantly. Their team was professional, efficient, and always ready to go the extra mile. We couldn’t be happier!",   
+    "rating": "(4.2)"
+  },
+  {
+    "title": "David Collins",
+    "desc": "The e-commerce platform they built for us is everything we hoped for and more. Ozone’s team combined functionality with aesthetics perfectly, helping us scale our online business effortlessly.",   
+    "rating": "(2.5)"
+  }       
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "/assets/img/service/webdevelopment.png",
+    "title": "Web Development",
+    "desc": "Create dynamic, user-friendly, and responsive websites tailored to your business needs. From corporate websites to personal portfolios, our development solutions ensure optimal performance and seamless user experiences.",
+    "btnText": "Learn More",
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-6"
+  },
+  {
+    "icon": "/assets/img/icons/service-icon2.png",
+    "title": "Software Development",
+    "desc": "Turn your ideas into robust software solutions with our expertise in custom software development. We design, develop, and deploy scalable applications to streamline your operations and drive innovation.",
+    "btnText": "Learn More",
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-6"
+  },
+  {
+    "icon": "/assets/img/service/ecommercedevelopment.png",
+    "title": "E-commerce Development",
+    "desc": "Empower your online business with feature-rich e-commerce platforms. We build secure, scalable, and conversion-driven online stores, ensuring a seamless shopping experience for your customers.",
+    "btnText": "Learn More",
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-4"
+  },
+  {
+    "icon": "/assets/img/service/mobiledevelopment.png",
+    "title": "Mobile App Development",
+    "desc": "Reach your customers on the go with custom mobile applications. Our team develops Android and iOS apps tailored to meet your unique business goals.",
+    "btnText": "Learn More",
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-4"
+  },
+  {
+    "icon": "/assets/img/service/uiux.png",
+    "title": "UI/UX Design",
+    "desc": "Deliver intuitive and visually stunning digital experiences with our UI/UX design services. We craft designs that enhance user engagement and satisfaction.",
+    "btnText": "Learn More",
+    "btnLink": "/service/service-details",
+    "addClass": "col-lg-4"
+  }
+]
